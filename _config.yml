@@ -22,6 +22,7 @@ projects:
   # - stars
   limit: 9
   exclude:
+    archived: false
     forks: true
     projects:
     # - repo-name
@@ -37,6 +38,10 @@ topics:
   - name: Vue.js
     web_url: https://github.com/topics/vuejs
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
 
   - name: Angular
     web_url: https://github.com/topics/angular
