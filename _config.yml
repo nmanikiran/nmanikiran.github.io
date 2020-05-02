@@ -44,9 +44,9 @@ topics:
     web_url: https://github.com/topics/flutter
     image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
 
-  - name: Angular
-    web_url: https://github.com/topics/angular
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
   - name: JavaScript
     web_url: https://github.com/topics/js
@@ -56,6 +56,10 @@ topics:
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
 
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
+
   - name: Node.js
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
@@ -63,6 +67,3 @@ topics:
   - name: MongoDB
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
-  - name: JavaScript
-    web_url: https://github.com/topics/js
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
